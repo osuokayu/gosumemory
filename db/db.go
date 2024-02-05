@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/osuokayu/gosumemory/memory"
+	"github.com/l3lackShark/gosumemory/memory"
 
 	"github.com/k0kubun/pp"
 )
